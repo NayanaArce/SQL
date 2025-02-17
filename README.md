@@ -1,2 +1,2 @@
 # SQL
-Arquivos para Consulta e Visualização de Dados de Servidores SQL
+Arquivos para Manipulação, Agregação, Consulta e Visualização de Dados SQL
